@@ -1,7 +1,7 @@
 <h1>Qr Code Generator And Scanner</h1>
 
 My Project Links
-<a href="https://qrcodegy.vercel.app/generator">Link</a>
+<a href="https://qrcodegy.vercel.app/generator" target="_blank">Link</a>
 <h2>
 Sure, here's the translation:
 
