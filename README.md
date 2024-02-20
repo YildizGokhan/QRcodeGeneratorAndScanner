@@ -3,8 +3,6 @@
 My Project Links
 <a href="https://qrcodegy.vercel.app/generator" target="_blank">Link</a>
 <h2>
-Sure, here's the translation:
-
 You can both generate a QR code here and access an existing QR code image.</h2>
 ![image](https://github.com/YildizGokhan/QRcodeGeneratorAndScanner/assets/144238207/6c38b970-52d8-45ab-9d21-b41524858dc6)
 ![image](https://github.com/YildizGokhan/QRcodeGeneratorAndScanner/assets/144238207/3cc3fa9a-19e0-447d-b2c1-e0c84d25090e)
